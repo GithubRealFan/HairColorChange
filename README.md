@@ -35,7 +35,8 @@
     2. Run run.py
         python run.py
 # How to run this file?
-    This code is used for facial image parsing, which involves dividing an input image into different regions based on the different features present in the image. The code starts by importing necessary libraries including PyTorch, Numpy, PIL (Python Imaging Library), and OpenCV.
+    This code is used for facial image parsing, which involves dividing an input image into different regions based on the different features present in the image. 
+    The code starts by importing necessary libraries including PyTorch, Numpy, PIL (Python Imaging Library), and OpenCV.
 
     The similar function calculates the similarity of two colors by comparing their Green (G), Blue (B), and Red (R) values. 
     If the difference between G, B or R value of both colors exceeds a certain threshold, then the function returns false, indicating that the colors are not similar. 
