@@ -1,5 +1,6 @@
 # What is hair color changing?:
 
+  Original Pictures:
 
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234773811-b48f02f5-3f12-4db6-b332-c74f62bb4c58.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
@@ -9,7 +10,8 @@
 </div>
 
 ---------------------------------------------------------------------
-
+  Changed Pictures:
+  
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234774666-440d3cba-80d7-48b4-9877-e61246b9d612.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/121934188/234774757-75dbe911-8b70-4e6f-85a9-54892963ac68.jpg" title="Girl" alt="Girl" width="205" height="205"/>&nbsp;
