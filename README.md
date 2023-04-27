@@ -5,8 +5,8 @@
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234773811-b48f02f5-3f12-4db6-b332-c74f62bb4c58.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/121934188/234773956-4349fec3-89fa-4f85-b468-6f7271a9add8.JPG" title="Girl" alt="Girl" width="205" height="205"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/234774078-fdedac5a-b3b2-4c38-93c9-2be316dac7b0.jpg" title="Man2" alt="Man2" width="205" height="205"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/234774195-bdb2f46f-cde9-45c3-ab8e-74be02106a55.jpg" title="Girl2" alt="Girl2" width="205" height="205"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/234774078-fdedac5a-b3b2-4c38-93c9-2be316dac7b0.jpg" title="Man2" alt="Man2" width="200" height="205"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/234774195-bdb2f46f-cde9-45c3-ab8e-74be02106a55.jpg" title="Girl2" alt="Girl2" width="200" height="205"/>&nbsp;
 </div>
 
 ---------------------------------------------------------------------
@@ -15,8 +15,8 @@
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234774666-440d3cba-80d7-48b4-9877-e61246b9d612.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/121934188/234774757-75dbe911-8b70-4e6f-85a9-54892963ac68.jpg" title="Girl" alt="Girl" width="205" height="205"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/234774817-2baeaff8-36f5-478a-8a33-3abf991b1fcb.jpg" title="Man2" alt="Man2" width="205" height="205"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/234774875-7b53b4eb-265d-4b00-8d92-3ecc0276f92c.jpg" title="Girl2" alt="Girl2" width="205" height="205"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/234774817-2baeaff8-36f5-478a-8a33-3abf991b1fcb.jpg" title="Man2" alt="Man2" width="200" height="205"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/234774875-7b53b4eb-265d-4b00-8d92-3ecc0276f92c.jpg" title="Girl2" alt="Girl2" width="200" height="205"/>&nbsp;
 </div>
 
 
