@@ -19,7 +19,7 @@ def similar(G1,B1,R1,G2,B2,R2):
     if min(ar) == 0:
         return False
     br = max(R1,G1,B1) / max(G2,B2,R2)
-    return max(ar) / min(ar) < 1.07 and br > 0.7 and br < 1.4
+    return max(ar) / min(ar) < 1.55 and br > 0.7 and br < 1.4
 
 def CFAR(G,B,R,g,b,r,pro,bri):
     ar=[]
