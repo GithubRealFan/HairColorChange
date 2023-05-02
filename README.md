@@ -1,6 +1,6 @@
-# What is hair color changing?:
+# Hair Color Chagine:
 
-  Original Pictures:
+## Original Pictures:
 
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234773811-b48f02f5-3f12-4db6-b332-c74f62bb4c58.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
@@ -10,7 +10,7 @@
 </div>
 
 ---------------------------------------------------------------------
-  Changed Pictures:
+## Changed Pictures:
   
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/234774666-440d3cba-80d7-48b4-9877-e61246b9d612.jpg" title="Man" alt="Man" width="205" height="205"/>&nbsp;
@@ -20,13 +20,13 @@
 </div>
 
 
-# requirments:
+## requirments:
     pip install torch
     pip install numpy
     pip install Pillow
     pip install opencv-python
     pip install torchvision
-# run.py
+## run.py
     1. You can change the last line of the run.py as you want.
         For example : evaluate(input_path='files/1.JPG', output_path='files/1_black.jpg', mod='gold')
         input_path : input image path
@@ -34,7 +34,7 @@
         mode : color of the hair (There are 3 types : black, gold, red)
     2. Run run.py
         python run.py
-# How to run this file?
+## How to run this file?
     This code is used for facial image parsing, which involves dividing an input image into different regions based on the different features present in the image. 
     The code starts by importing necessary libraries including PyTorch, Numpy, PIL (Python Imaging Library), and OpenCV.
 
